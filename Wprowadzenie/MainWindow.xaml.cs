@@ -24,7 +24,16 @@ namespace Wprowadzenie
         //  - stack pane
         //  - dockpanel:
         //      - dockpanel.dock="strona"
-        //  - 
+        //  - WrapPanel
+        //  - UniformGrid
+        //  - Grid:
+        //      - ColumnDefinitions
+        //      - RowDefinitions
+        //      - Grid.Row
+        //      - Grid.Column
+        //  - Canvas:
+        //      - Rectangle
+
         public MainWindow()
         {
             InitializeComponent();
