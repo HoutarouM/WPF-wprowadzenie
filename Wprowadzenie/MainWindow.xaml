@@ -37,7 +37,9 @@
         </TextBox>
 
         <TextBlock x:Name="textBlock2" />
-        <TextBlock x:Name="textBlock3" />
+        
+        <!-- bindowanie text box do widoku -->
+        <TextBlock x:Name="textBlock3" Text="{Binding ElementName=textBox, Path=Text}" />
 
         <Button Click="Rename_Click">rename</Button>
         <Button Content="test"></Button>
