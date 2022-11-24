@@ -1,0 +1,30 @@
+﻿<Window x:Class="Wprowadzenie.ObliczeniaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wprowadzenie"
+        mc:Ignorable="d"
+        Title="ObliczeniaWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="CadetBlue">Podaj 1 liczbe</TextBlock>
+        <TextBox x:Name="a" Grid.Column="1" />
+
+        <TextBlock Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="CadetBlue">Podaj 2 liczbe</TextBlock>
+        <TextBox x:Name="b" Grid.Column="1" Grid.Row="1" />
+
+        <Button Grid.Row="2" Grid.ColumnSpan="2" Click="Oblicz_Click">Oblicz</Button>
+    </Grid>
+</Window>

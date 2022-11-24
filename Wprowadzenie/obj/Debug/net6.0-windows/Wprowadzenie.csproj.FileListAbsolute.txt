@@ -21,3 +21,5 @@ C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\Wp
 C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\ref\Wprowadzenie.dll
 C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\Wprowadzenie.Properties.Resources.resources
 C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\Wprowadzenie.csproj.GenerateResource.cache
+C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\ObliczeniaWindow.g.cs
+C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\ObliczeniaWindow.baml
