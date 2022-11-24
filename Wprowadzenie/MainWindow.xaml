@@ -42,6 +42,11 @@
         <TextBlock x:Name="textBlock3" Text="{Binding ElementName=textBox, Path=Text}" />
 
         <Button Click="Rename_Click">rename</Button>
-        <Button Content="test"></Button>
+        <Button HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Resources/dog.jpg" Width="50" />
+                <TextBlock>Save</TextBlock>
+            </StackPanel>
+        </Button>
     </StackPanel>
 </Window>

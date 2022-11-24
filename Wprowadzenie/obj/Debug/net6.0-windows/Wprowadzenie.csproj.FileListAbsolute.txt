@@ -19,3 +19,5 @@ C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\re
 C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\Wprowadzenie.pdb
 C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\Wprowadzenie.genruntimeconfig.cache
 C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\ref\Wprowadzenie.dll
+C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\Wprowadzenie.Properties.Resources.resources
+C:\Users\Komp\source\repos\Wprowadzenie\Wprowadzenie\obj\Debug\net6.0-windows\Wprowadzenie.csproj.GenerateResource.cache
