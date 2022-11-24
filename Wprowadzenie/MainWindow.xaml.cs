@@ -33,10 +33,23 @@ namespace Wprowadzenie
         //      - Grid.Column
         //  - Canvas:
         //      - Rectangle
+        
+        //  label sformatowany
+        //  textblock nie
+        //  tekst tylko we srodku albo w text(content)
+        // formatowac tekst mozna tylko w text form, w lable error
 
         public MainWindow()
         {
             InitializeComponent();
+
+            textBlock.Text = "jakis text z c#";
+        }
+
+        private void Rename_Click(object sender, RoutedEventArgs e)
+        {
+            string text = textBox.Text.ToString();
+            textBlock2.Text = text;
         }
     }
 }
